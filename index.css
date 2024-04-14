@@ -1,0 +1,19 @@
+body{
+  background-color: hsl(330, 100%, 98%);
+}
+.container{
+  background-color: hsl(0,0%,100%);
+}
+p,li,table{
+  font-family: "Outfit";
+  font-size: 15px;
+}
+h1{
+  font-family: "Young serif";
+}
+.h4,ol,.weight{
+  color:  hsl(14, 45%, 36%);
+}
+.fs-5{
+  color: hsl(332, 51%, 32%);
+}
