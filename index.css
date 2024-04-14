@@ -17,3 +17,15 @@ h1{
 .fs-5{
   color: hsl(332, 51%, 32%);
 }
+@media only screen and (max-width: 500px) {
+  .container{
+    width: 100%;
+  }
+}
+@media only screen and (min-width: 500px) and (max-width: 1440px) {
+  .container{
+    width: 50%;
+    margin-top: 30px;
+    margin-bottom: 3px;
+  }
+}
