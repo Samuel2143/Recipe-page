@@ -19,7 +19,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/recipe-page-using-bootstrap-H3PHGjwSNj)
 - Live Site URL: [Live site](https://samuel2143.github.io/Recipe-page/)
 
 ## My process
